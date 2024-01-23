@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🐍 Python Beginner | 🌱 Learning and Growing | 👩‍💻 Passionate about Coding
 
 <!--
 **lanirage/lanirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
