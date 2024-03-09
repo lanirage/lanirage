@@ -3,7 +3,7 @@
 <!--
 **lanirage/lanirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here with are some ideas to get you started:
 
 -  🐍 Python Beginner | 🌱 Learning and Growing | 👩‍💻 Passionate about Coding
 - 🌱 I’m currently learning ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+i need to add this 
